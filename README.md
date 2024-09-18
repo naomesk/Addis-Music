@@ -69,7 +69,7 @@ Full stack application for viewing, creating, updating, and deleting songs.
     ...
     `;
     ```
-## Emotion js (CSS JS integration)
+## Emotion JS (CSS JS integration)
 * To install: `npm install @emotion/react`
 * Helps making CSS easier to add to a js project to create dynamic styles.
 * You can install additional plugins for testing and optimizing:
