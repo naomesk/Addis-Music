@@ -16,6 +16,17 @@ Full stack application for viewing, creating, updating, and deleting songs.
 * To start the developer server: `npm run dev`
 * Your website will be hosted live on `https://localhost:3000`
 
+ ```
+  npm run dev
+    Starts the development server.
+
+  npm run build
+    Builds the app for production.
+
+  npm start
+    Runs the built app in production mode.
+```
+
 ## Redux (State management)
 ### Installations
 * To install react binded redux: `npm install react-redux`
